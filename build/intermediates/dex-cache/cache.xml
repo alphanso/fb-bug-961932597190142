@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/rishabh/AndroidStudioProjects/Parse-Starter-Project-1.9.2/ParseStarterProject/libs/ParseFacebookUtilsV4-1.9.2.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="bab281cc21f6a68152e11ab53b053790ccfd6764">
+        <dex dex="/home/rishabh/AndroidStudioProjects/Parse-Starter-Project-1.9.2/ParseStarterProject/build/intermediates/pre-dexed/debug/ParseFacebookUtilsV4-1.9.2-dbac907d051d7402a23a6fba2f65e87f16772407.jar" />
+    </item>
+    <item
+        jar="/home/rishabh/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.2.0/6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd/bolts-android-1.2.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="/home/rishabh/AndroidStudioProjects/Parse-Starter-Project-1.9.2/ParseStarterProject/build/intermediates/pre-dexed/debug/bolts-android-1.2.0-41395f9ac69e0968d6a5c997fdeb02330fcf01f9.jar" />
+    </item>
+    <item
+        jar="/home/rishabh/AndroidStudioProjects/Parse-Starter-Project-1.9.2/ParseStarterProject/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.1.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="a78bfd2ec508b123ee7c03f4006ba7996ef9a8dc">
+        <dex dex="/home/rishabh/AndroidStudioProjects/Parse-Starter-Project-1.9.2/ParseStarterProject/build/intermediates/pre-dexed/debug/classes-d2070dce97ff01b0f9798f19b0281d8b9ff716ef.jar" />
+    </item>
+    <item
+        jar="/home/rishabh/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/home/rishabh/AndroidStudioProjects/Parse-Starter-Project-1.9.2/ParseStarterProject/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-fa2cb270b70d6c8ad6feaec4bb4a48b17d10878b.jar" />
+    </item>
+    <item
+        jar="/home/rishabh/AndroidStudioProjects/Parse-Starter-Project-1.9.2/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/home/rishabh/AndroidStudioProjects/Parse-Starter-Project-1.9.2/ParseStarterProject/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-57d8b8d4a0716bb0421a1b74679a02b5307e4c99.jar" />
+    </item>
+    <item
+        jar="/home/rishabh/AndroidStudioProjects/Parse-Starter-Project-1.9.2/ParseStarterProject/libs/Parse-1.9.2.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="fe739334780fe321141e62720822c2d456061899">
+        <dex dex="/home/rishabh/AndroidStudioProjects/Parse-Starter-Project-1.9.2/ParseStarterProject/build/intermediates/pre-dexed/debug/Parse-1.9.2-7cb7cd9a63a3b9a370388151648763c8bb1426ec.jar" />
+    </item>
+    <item
+        jar="/home/rishabh/AndroidStudioProjects/Parse-Starter-Project-1.9.2/ParseStarterProject/libs/ParseCrashReporting-1.9.2.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="83f3b1e397f1cc3f05cb9db078d9e364b5f5e218">
+        <dex dex="/home/rishabh/AndroidStudioProjects/Parse-Starter-Project-1.9.2/ParseStarterProject/build/intermediates/pre-dexed/debug/ParseCrashReporting-1.9.2-4041d6cddb8ad6676740927be13f8d0a9a4c9155.jar" />
+    </item>
+    <item
+        jar="/home/rishabh/AndroidStudioProjects/Parse-Starter-Project-1.9.2/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/home/rishabh/AndroidStudioProjects/Parse-Starter-Project-1.9.2/ParseStarterProject/build/intermediates/pre-dexed/debug/classes-2c5a50e5afa35aa110f67611937e37c8b532b6ed.jar" />
+    </item>
+
+</items>

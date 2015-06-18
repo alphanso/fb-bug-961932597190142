@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="parse_app_id">qqi4wR09yA3zv2dPfW32TOWbt1yBajeZADMzZEFB</string>
+    <string name="parse_client_key">BwvQRyGCpDNVaMeVWVwuWmLHNF8GMYcUluxGOSPS</string>
+
+    <string name="hello">Hello World, ParseStarterProjectActivity!</string>
+    <string name="app_name">ParseStarterProject</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="facebook_app_id">1654491724762606</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>
